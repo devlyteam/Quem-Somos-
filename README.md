@@ -19,9 +19,7 @@ A **DevLy** é uma equipe especializada na criação de soluções digitais mode
 - React.js
 - Vite
 - Flutter
-- Firebase / MongoDB
 - Node.js
-- TailwindCSS
 - Figma
 
 ## 📩 Quer trabalhar com a gente?
